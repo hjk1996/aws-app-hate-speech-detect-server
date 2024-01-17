@@ -1,0 +1,4 @@
+.python-version
+download_models.py
+.venv
+__pycache__
